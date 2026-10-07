@@ -1,0 +1,22 @@
+Legal Variables
+
+a
+ali
+ali1
+_x
+ali_mughal
+
+Illegal Variables
+
+1a
+?ali
+$ali
+ali Mughal
+ali-mughal
+
+Data Types
+1) Interger 345
+2) String "ali"
+3 Float 23.45
+
+Variable : It reserves or allocate space on memory where you store data
